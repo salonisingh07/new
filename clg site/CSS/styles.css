@@ -1,0 +1,249 @@
+body{
+  font-family: "Montserrat-bold" ;
+}
+.logo{
+  height: 7rem;
+  width: 7rem;
+}
+
+#title{
+  background-color: #435E55FF;
+  color:#fff ;
+}
+
+.tog{
+  background-color:#435E55FF ;
+  text-align: center;
+  border: 2px solid black;
+}
+.navbar-brand{
+  color: white;
+}
+.navbar-brand:hover{
+  color: white;
+}
+.dropdown-item{
+  background-color: transparent;
+  color: black;
+}
+
+.dropdown-menu{
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
+
+
+
+.dd{
+  color:#fff ;
+
+}
+.dropdown-menu {
+  border-color:  black;
+  width: 200px;
+  background-color: transparent;
+  text-align: center;
+}
+
+
+nav ul li a{
+  color: white;
+}
+
+nav ul li a:hover{
+  color: grey;
+}
+
+.nav-link{
+  font-size: 1.1rem;
+  display: inline-block;
+  font-family: Montserrat-light ;
+}
+
+.nav-item{
+  padding: 0px 18px;
+  color: white;
+}
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+
+
+.hello{
+  display: inline-block;
+
+}
+
+/* testimonials */
+#testimonials{
+  padding: 3% 5%;
+  text-align: center;
+  background-color:  #fff  ;
+}
+
+.testimonial-image{
+  width: 900px;
+  height: 500px;
+  margin: 2px;
+}
+
+/*....................................................................... message */
+
+#message{
+
+  text-align:center;
+  background-color: #435E55FF;
+  /* background-color:  #587850  ; */
+  color: #fff;
+}
+
+.principal-mam{
+  border-radius: 100%;
+  height: 17rem;
+  width: 17rem;
+  margin: 1rem 2rem ;
+}
+
+/* .................................................gallary */
+
+#gallary{
+  padding: 5% 5%;
+  text-align: center;
+  background-color:  #fff  ;
+  }
+
+.gallary-image{
+  height: 200px;
+  width: 250px;
+  margin: 30px 50px;
+  margin-left: 50px;
+  padding: 5px;
+  filter: grayscale(100%);
+  transition: 1s;
+  text-align: center;
+}
+.gallary-image:hover{
+  filter: grayscale(0);
+  transition: scale(1.1);
+}
+
+.images-button{
+  text-align: right;
+}
+.butn {
+  background: #FFF;
+  background-image: -webkit-linear-gradient(top, #FFF, #FFF);
+  background-image: -moz-linear-gradient(top, #FFF, #FFF);
+  background-image: -ms-linear-gradient(top, #FFF, #FFF);
+  background-image: -o-linear-gradient(top, #FFF, #FFF);
+  background-image: linear-gradient(to bottom, #FFF, #FFF);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #435E55FF;
+  font-size: 20px;
+  padding: 7px 7px 7px 7px;
+  text-decoration: none;
+  margin-left: 100px;
+}
+
+.butn:hover {
+  background: #FFF;
+  background-image: -webkit-linear-gradient(top, #FFF, #FFF);
+  background-image: -moz-linear-gradient(top, #FFF, #FFF);
+  background-image: -ms-linear-gradient(top, #FFF, #FFF);
+  background-image: -o-linear-gradient(top, #FFF, #FFF);
+  background-image: linear-gradient(to bottom, #FFF, #FFF);
+  text-decoration: none;
+  color:  #28544b;
+}
+/* ...................................................lasttttt............................................ */
+#last{
+  background-color: #435E55FF;
+  margin-top:  1rem ;
+  padding: 1rem 1rem 0;
+  color: #FFF;
+  text-align: center;
+
+}
+.last1 {
+  background-color:  #435E55FF;
+  height: 100px;
+  width: 300px;
+  margin-left: 1rem;
+  text-align: center;
+  /* padding: 1rem; */
+  color: #FFF;
+  line-height: 2px;
+  display: inline-block;
+}
+
+.linkk{
+  color: white;
+
+}
+.linkk:hover{
+  color: #28544b;
+}
+.last2{
+  background-color:  #435E55FF;
+  height: 350px;
+  width: 300px;
+  margin-left: 1rem;
+  text-align: center;
+  /* padding: 1rem; */
+  color: #FFF;
+  line-height: 2px;
+  display: inline-block;
+}
+.last3{
+  background-color:  #435E55FF;
+  height: 200px;
+  width: 300px;
+  margin-left: 1rem;
+  text-align: center;
+  /* padding: 1rem; */
+  color: #FFF;
+  line-height: 2px;
+  display: inline-block;
+}
+
+.google{
+  height: 10rem;
+  width: 7rem;
+}
+
+/* social-icon */
+#social-icon{
+  text-align: center;
+
+  background-color: #435E55FF;
+}
+.social-icon{
+  margin: 20px 10px;
+  color: white;
+
+}
+/* ...................................................facilities............................................ */
+#footer{
+  background-color: black;
+  color: grey;
+  height: 2rem;
+  text-align: right;
+}
+.Copyright{
+  margin-right: 2rem;
+}
+.saloni .linkk2{
+  color: grey;
+  margin-right: 2rem;
+}
+.linkk2:hover{
+  color:  #435E55FF;
+}
